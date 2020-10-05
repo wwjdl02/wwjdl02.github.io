@@ -1,0 +1,15 @@
+<html>
+       <head>
+	          <title>hj's web site</title>
+	   </head>
+       <body>
+              <H1>hj's web site test</h1>
+              청강문화산업대학교.......<br>
+              게임콘텐츠스쿨.......<br>			  
+			  게임 QA.......<br>
+			  contents.......<br>
+			  contents.......<br>
+			  contents.......<br>
+			  contents.......<br>
+	   </body>
+</html>  
